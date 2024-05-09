@@ -1,0 +1,1 @@
+""" This project is aimed at automated beggar detection using CV """
